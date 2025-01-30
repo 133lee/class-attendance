@@ -1,0 +1,1 @@
+ C:\\Users\\Pavilion\\StudioProjects\\attendance_model\\.dart_tool\\flutter_build\\707f0e797e02d9e217d496da9da58553\\native_assets.yaml: 
