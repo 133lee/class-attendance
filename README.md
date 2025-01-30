@@ -65,8 +65,8 @@ Contributing 🤝
 Contributions are welcome! If you'd like to contribute, please follow these steps:
 
 
-License 📄
-This project is licensed under the MIT License. See the LICENSE file for details.
+## License 📄
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 Acknowledgments 🙏
 Thanks to the Flutter team for the amazing framework.
